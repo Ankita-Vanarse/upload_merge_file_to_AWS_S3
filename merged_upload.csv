@@ -1,0 +1,5 @@
+DepartmentID,DepartmentName,EmployeeId,FirstName,LastName,HireDate
+101,Human Resources,1,John,Doe,2022-01-15
+101,Human Resources,4,Michael,Brown,2019-07-19
+102,IT,2,Jane,Smith,2021-03-22
+103,Finance,3,Emily,Jones,2020-11-01

@@ -1,0 +1,5 @@
+EmployeeId,FirstName,LastName,DepartmentID,HireDate
+1,John,Doe,101,2022-01-15
+2,Jane,Smith,102,2021-03-22
+3,Emily,Jones,103,2020-11-01
+4,Michael,Brown,101,2019-07-19
