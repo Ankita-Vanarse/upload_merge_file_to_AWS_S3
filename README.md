@@ -22,10 +22,12 @@ Before running the script, ensure you have:
    
    `bash`
     pip install boto3
+   
+   `bash`
     pip install boto3 pandas python-dotenv
 
 
-3. Configure AWS credentials:
+4. Configure AWS credentials:
 
 Ensure your AWS credentials are set up either through environment variables or AWS configuration files (`~/.aws/credentials`).
 
