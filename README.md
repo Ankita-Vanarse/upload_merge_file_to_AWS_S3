@@ -27,11 +27,12 @@ Before running the script, ensure you have:
     pip install boto3 pandas python-dotenv
 
 
-4. Configure AWS credentials:
+3. **Configure AWS credentials:**
 
 Ensure your AWS credentials are set up either through environment variables or AWS configuration files (`~/.aws/credentials`).
 
-4. Update configuration:
+
+4. **Update configuration:**
 
 Modify `config.py` file with your S3 bucket name, region, and other necessary configurations.
 
